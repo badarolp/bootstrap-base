@@ -4,8 +4,8 @@
 
 ## Resources
 
-- **Bootstrap** - ...
-- **JQuery** - ...
+- **Bootstrap** - v4.3.1
+- **JQuery** - v3.4.1
 
 ## Créditos
 
